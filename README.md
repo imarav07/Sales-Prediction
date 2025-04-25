@@ -1,4 +1,7 @@
-# Sales-Prediction
+# Walmart-Sales-Prediction
+
+## Acknowledgement
+We would like to thank Kaggle for providing the dataset used in this project.
 
 ## Main Notebook
 
@@ -68,3 +71,9 @@ Model     |   MAE    |   RMSE   |   R² Score
 XGBoost   | 33255.61 | 53671.15 |   0.9909
 LightGBM  | 33249.18 | 53580.08 |   0.9909
 ```
+
+## 📬 Contact
+
+**Aravind Reddy Rangapuran**  
+📧 Email: [aravind.rangapuram@gmail.com](mailto:aravind.rangapuram@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/aravind-reddy-rangapuram](https://www.linkedin.com/in/aravind-reddy-rangapuram/)
