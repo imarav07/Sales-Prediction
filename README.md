@@ -76,4 +76,4 @@ LightGBM  | 33249.18 | 53580.08 |   0.9909
 
 **Aravind Reddy Rangapuran**  
 📧 Email: [aravind.rangapuram@gmail.com](mailto:aravind.rangapuram@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/aravind-reddy-rangapuram](https://www.linkedin.com/in/aravind-reddy-rangapuram/)
+🔗 LinkedIn: [linkedin.com/in/aravind-rangapuram](https://www.linkedin.com/in/aravind-rangapuram/)
